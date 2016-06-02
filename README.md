@@ -1,2 +1,1 @@
-# cc
-Código de conducta APICV
+# Código de conducta APICV
