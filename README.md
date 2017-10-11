@@ -28,4 +28,4 @@ No envieu missatges amb temàtiques no relacionades amb l’àmbit de l’espai 
 Per evitar sorpreses i les presses d’última hora aviseu abans que sigui massa tard. Per exemple, si preveieu una llarga absència o una sobrecàrrega de feina. Això és especialment important en el cas dels responsables de projecte.
 
 
-#### Codi de conducta basat en el [Codi de la comunitat Softcatalà](https://www.softcatala.org/com-ens-organitzem/codi-de-conducta/)
+#### Codi de conducta basat en el [Codi de la comunitat Softcatalà](https://www.softcatala.org/com-ens-organitzem/codi-de-conducta/) sota llicència [Atribució-CompartirIgual 4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.ca).
